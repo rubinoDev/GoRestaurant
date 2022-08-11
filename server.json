@@ -1,0 +1,12 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Ao molho",
+      "description": "Macarrão ao molho branco",
+      "price": "39.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    }
+  ]
+}
